@@ -1,0 +1,24 @@
+team,season,league,record,conf_record
+Texas Longhorns,2025,NCAAVW-D1,26-4,13-2
+
+stat_category,stat,team_per_set,opponent_per_set
+ATTACK,Kills,14.7,12.2
+ATTACK,Attack Error Total,4.2,5.4
+ATTACK,Total Attempts,33.4,34.2
+ATTACK,Hitting %,.315,.199
+ATTACK,Kills Per Set,14.7,12.2
+SET,Assists,13.8,11.5
+SET,Assists Per Set,13.8,11.5
+SET,Ball Handling Errors,0.0,0.0
+SERVE,Service Aces,1.2,0.9
+SERVE,Service Errors,2.1,2.3
+SERVE,Service %,.910,.886
+RECEPTIONS,Reception Errors,0.9,1.2
+RECEPTIONS,Reception %,.947,.946
+DEFENSE,Digs,13.6,11.5
+DEFENSE,Dig Per Set,13.6,11.5
+BLOCKING,Block Solos,0.3,0.4
+BLOCKING,Block Assists,3.7,3.7
+BLOCKING,Block Errors,0.3,0.4
+BLOCKING,Total Team Blocks,2.2,2.3
+BLOCKING,Blocks Per Set,2.2,2.3

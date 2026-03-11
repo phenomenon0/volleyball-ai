@@ -1,0 +1,24 @@
+team,season,league,record,conf_record
+Penn St. Nittany Lions,2025,NCAAVW-D1,19-13,12-8
+
+stat_category,stat,team_per_set,opponent_per_set
+ATTACK,Kills,13.5,12.2
+ATTACK,Attack Error Total,5.1,4.5
+ATTACK,Total Attempts,33.8,32.1
+ATTACK,Hitting %,.250,.238
+ATTACK,Kills Per Set,13.5,12.2
+SET,Assists,12.6,11.3
+SET,Assists Per Set,12.6,11.3
+SET,Ball Handling Errors,0.0,0.0
+SERVE,Service Aces,1.4,1.3
+SERVE,Service Errors,2.9,2.3
+SERVE,Service %,.869,.894
+RECEPTIONS,Reception Errors,1.3,1.4
+RECEPTIONS,Reception %,.934,.926
+DEFENSE,Digs,12.9,12.9
+DEFENSE,Dig Per Set,12.9,12.9
+BLOCKING,Block Solos,0.3,0.3
+BLOCKING,Block Assists,3.6,3.5
+BLOCKING,Block Errors,0.3,0.3
+BLOCKING,Total Team Blocks,2.1,2.0
+BLOCKING,Blocks Per Set,2.1,2.0
