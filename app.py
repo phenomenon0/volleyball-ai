@@ -198,6 +198,27 @@ def call_claude(prompt):
 
 # --- UI ---
 st.set_page_config(page_title="Volleyball AI Scout", layout="centered")
+
+
+def check_password():
+    """Simple password gate."""
+    if "authenticated" not in st.session_state:
+        st.session_state["authenticated"] = False
+    if st.session_state["authenticated"]:
+        return True
+    st.title("Volleyball AI Scout")
+    pwd = st.text_input("Password", type="password")
+    if pwd == "volleyball":
+        st.session_state["authenticated"] = True
+        st.rerun()
+    elif pwd:
+        st.error("Incorrect password")
+    return False
+
+
+if not check_password():
+    st.stop()
+
 st.title("Volleyball AI Scout")
 
 team_names = list(TEAMS.keys())
