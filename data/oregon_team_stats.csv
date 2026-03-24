@@ -1,0 +1,24 @@
+team,season,league,record,conf_record
+Oregon Ducks,2025,NCAAVW-D1,17-13,8-12
+
+stat_category,stat,team_per_set,opponent_per_set
+ATTACK,Kills,13.1,11.8
+ATTACK,Attack Error Total,5.1,4.8
+ATTACK,Total Attempts,31.8,30.4
+ATTACK,Hitting %,.252,.231
+ATTACK,Kills Per Set,13.1,11.8
+SET,Assists,12.1,10.9
+SET,Assists Per Set,12.1,10.9
+SET,Ball Handling Errors,0.0,0.0
+SERVE,Service Aces,1.8,1.4
+SERVE,Service Errors,3.0,2.5
+SERVE,Service %,.866,.883
+RECEPTIONS,Reception Errors,1.4,1.8
+RECEPTIONS,Reception %,.925,.907
+DEFENSE,Digs,11.4,10.8
+DEFENSE,Dig Per Set,11.4,10.8
+BLOCKING,Block Solos,0.4,0.3
+BLOCKING,Block Assists,3.7,3.4
+BLOCKING,Block Errors,0.4,0.4
+BLOCKING,Total Team Blocks,2.2,2.0
+BLOCKING,Blocks Per Set,2.2,2.0

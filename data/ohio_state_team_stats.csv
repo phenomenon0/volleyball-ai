@@ -1,0 +1,24 @@
+team,season,league,record,conf_record
+Ohio St. Buckeyes,2025,NCAAVW-D1,6-22,3-17
+
+stat_category,stat,team_per_set,opponent_per_set
+ATTACK,Kills,11.8,13.4
+ATTACK,Attack Error Total,5.8,4.7
+ATTACK,Total Attempts,32.8,32.4
+ATTACK,Hitting %,.185,.268
+ATTACK,Kills Per Set,11.8,13.4
+SET,Assists,11.1,12.3
+SET,Assists Per Set,11.1,12.3
+SET,Ball Handling Errors,0.0,0.1
+SERVE,Service Aces,1.4,1.7
+SERVE,Service Errors,2.2,2.2
+SERVE,Service %,.894,.906
+RECEPTIONS,Reception Errors,1.7,1.4
+RECEPTIONS,Reception %,.921,.925
+DEFENSE,Digs,11.9,12.8
+DEFENSE,Dig Per Set,11.9,12.8
+BLOCKING,Block Solos,0.4,0.5
+BLOCKING,Block Assists,3.0,3.6
+BLOCKING,Block Errors,0.3,0.4
+BLOCKING,Total Team Blocks,1.9,2.3
+BLOCKING,Blocks Per Set,1.9,2.3

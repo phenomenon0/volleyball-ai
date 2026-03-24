@@ -1,0 +1,24 @@
+team,season,league,record,conf_record
+Wisconsin Badgers,2025,NCAAVW-D1,28-5,17-3
+
+stat_category,stat,team_per_set,opponent_per_set
+ATTACK,Kills,15.2,11.4
+ATTACK,Attack Error Total,4.3,5.1
+ATTACK,Total Attempts,33.4,33.7
+ATTACK,Hitting %,.327,.187
+ATTACK,Kills Per Set,15.2,11.4
+SET,Assists,14.3,10.6
+SET,Assists Per Set,14.3,10.6
+SET,Ball Handling Errors,0.0,0.0
+SERVE,Service Aces,1.4,0.8
+SERVE,Service Errors,2.9,2.2
+SERVE,Service %,.880,.889
+RECEPTIONS,Reception Errors,0.8,1.4
+RECEPTIONS,Reception %,.955,.932
+DEFENSE,Digs,14.2,12.0
+DEFENSE,Dig Per Set,14.2,12.0
+BLOCKING,Block Solos,0.4,0.3
+BLOCKING,Block Assists,4.0,3.0
+BLOCKING,Block Errors,0.4,0.5
+BLOCKING,Total Team Blocks,2.4,1.8
+BLOCKING,Blocks Per Set,2.4,1.8

@@ -1,0 +1,24 @@
+team,season,league,record,conf_record
+Minnesota Golden Gophers,2025,NCAAVW-D1,24-10,12-8
+
+stat_category,stat,team_per_set,opponent_per_set
+ATTACK,Kills,12.8,13.2
+ATTACK,Attack Error Total,3.8,5.5
+ATTACK,Total Attempts,31.8,34.2
+ATTACK,Hitting %,.283,.225
+ATTACK,Kills Per Set,12.8,13.2
+SET,Assists,11.7,12.4
+SET,Assists Per Set,11.7,12.4
+SET,Ball Handling Errors,0.0,0.0
+SERVE,Service Aces,1.7,1.3
+SERVE,Service Errors,2.1,2.7
+SERVE,Service %,.906,.872
+RECEPTIONS,Reception Errors,1.3,1.7
+RECEPTIONS,Reception %,.929,.919
+DEFENSE,Digs,12.9,13.1
+DEFENSE,Dig Per Set,12.9,13.1
+BLOCKING,Block Solos,0.4,0.3
+BLOCKING,Block Assists,4.5,2.7
+BLOCKING,Block Errors,0.5,0.5
+BLOCKING,Total Team Blocks,2.6,1.6
+BLOCKING,Blocks Per Set,2.7,1.7

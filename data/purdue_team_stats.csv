@@ -1,0 +1,24 @@
+team,season,league,record,conf_record
+Purdue Boilermakers,2025,NCAAVW-D1,27-7,15-5
+
+stat_category,stat,team_per_set,opponent_per_set
+ATTACK,Kills,14.0,12.9
+ATTACK,Attack Error Total,4.4,5.3
+ATTACK,Total Attempts,33.2,34.3
+ATTACK,Hitting %,.290,.220
+ATTACK,Kills Per Set,14.0,12.9
+SET,Assists,13.0,12.1
+SET,Assists Per Set,13.0,12.1
+SET,Ball Handling Errors,0.0,0.0
+SERVE,Service Aces,1.3,1.3
+SERVE,Service Errors,2.1,2.2
+SERVE,Service %,.910,.893
+RECEPTIONS,Reception Errors,1.3,1.3
+RECEPTIONS,Reception %,.929,.939
+DEFENSE,Digs,13.1,12.4
+DEFENSE,Dig Per Set,13.1,12.4
+BLOCKING,Block Solos,0.6,0.4
+BLOCKING,Block Assists,3.9,2.7
+BLOCKING,Block Errors,0.6,0.3
+BLOCKING,Total Team Blocks,2.5,1.7
+BLOCKING,Blocks Per Set,2.5,1.7
